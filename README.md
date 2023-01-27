@@ -3,9 +3,9 @@
 
 The presentation about this project can be found [here.](https://github.com/meugene2022/AI-capstone/blob/main/AI_Capatone_Powerpoint.pptx) it contains a brief summary of the data and the prediction.
 
-The final notebook can be found in the file can be found[here](https://github.com/meugene2022/AI-capstone/blob/main/Capstone%20Project%20Notebook.ipynb) contains the data exploration, cleaning and analysis that supported our final recommendations for used car Predction.
+The final notebook can be found in the file can be found [here](https://github.com/meugene2022/AI-capstone/blob/main/Capstone%20Project%20Notebook.ipynb) contains the data exploration, cleaning and analysis that supported our final recommendations for used car Predction.
 
-The data used in this analysis is located in the carvana dataset[here](https://github.com/meugene2022/AI-capstone/blob/main/carvana.csv)
+The data used in this analysis is located in the carvana dataset [here](https://github.com/meugene2022/AI-capstone/blob/main/carvana.csv)
 
 # Overview
 
