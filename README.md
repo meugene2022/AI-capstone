@@ -13,16 +13,17 @@ This project aims to predict car prices using the cravana used car dataset found
 
 # Business Understanding
 
+WE are a up-and-coming used car company that is looking to capitalize on the current downfall of the car market. In order to make accurate car price predictions that can help the company travers this market we need to explore the following factors.
 
-* Understanding the market- The online used car market is struggling post pandemic
-* Utilizing Carvana’s Inventory- The Dataset Utilizes Carvana's Used Car inventory to get a understanding of the state of the market
-* We are going to use Machine learning to analyze and understand the inventory listed above to predict car prices
+* Understanding the market- the online used car market is struggling post pandemic big companys are selling their inventory for a lower average price
+* Utilizing Industry giants Inventory- The Dataset Utilizes Carvana's Used Car inventory to get a understanding of the state of the market from a company that has a sizable market share.
+* We are going to use Machine learning to analyze and understand the inventory listed above to predict along with supporting data to predict prices.
 
 # Data Understanding 
 
 
-* Carvana Used Car Inventory
-* The dataset contained 4 columns I used 3 for analysis 
+* The Data set used is the Carvana used car inventory  [here.](https://www.kaggle.com/datasets/ravishah1/carvana-predict-car-prices) 
+* The dataset contained 4 columns I used 3 for analysis and prediction
 * Contains over 20 thousand used cars
 * Ranging from  1995 to 2022
 * The average price of a car in their inventory is 20k
