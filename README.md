@@ -32,7 +32,7 @@ This project aims to predict car prices using the cravana used car dataset found
 
 # Data Analysis
 * There is a positive corelation between the year of the car and the price
-![Correlation between price and year](C:\Users\meugene\Documents\Flatiron\Images)
+![Correlation between price and year](Correlation between year and price.png)
 * There is a negative corelation between the price of the car and the amount of miles it had
 * The most popular cars in the inventory were mid-small size sedan such as Toyota Corolla and Honda CR-V
 * The most popular model years in the inventory were 2015 and 2019 
