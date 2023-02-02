@@ -2,7 +2,7 @@
 
 ## Goal
 
-This project aims to predict car prices using the cravana used car dataset found [here.](https://www.kaggle.com/datasets/ravishah1/carvana-predict-car-prices) 
+This project aims to predict car prices using an indusrty giants used car inventory.
 
 
 # Overview
@@ -13,9 +13,9 @@ This project aims to predict car prices using the cravana used car dataset found
 
 # Business Understanding
 
-WE are a up-and-coming used car company that is looking to capitalize on the current downfall of the car market. In order to make accurate car price predictions that can help the company travers this market we need to explore the following factors.
+WE are a up-and-coming used car company that is looking to capitalize on the current downfall of the car market. In order to make accurate car price predictions that can help the company traverse this market we need to explore the following factors.
 
-* Understanding the market- the online used car market is struggling post pandemic big companys are selling their inventory for a lower average price
+* Understanding the market- the online used car market is struggling post pandemic big company's are selling their inventory for a lower average price
 * Utilizing Industry giants Inventory- The Dataset Utilizes Carvana's Used Car inventory to get a understanding of the state of the market from a company that has a sizable market share.
 * We are going to use Machine learning to analyze and understand the inventory listed above to predict along with supporting data to predict prices.
 
@@ -32,14 +32,16 @@ WE are a up-and-coming used car company that is looking to capitalize on the cur
 
 
 # Data Analysis
-* There is a positive corelation between the year of the car and the price
-![](Images/Correlation between year and price.png)
-* There is a negative corelation between the price of the car and the amount of miles it had
-![](Images/Correlation between price and mile.png)
+* There is a positive correlation between the year of the car and the price
+![](https://github.com/meugene2022/AI-capstone/blob/main/Images/Correlation%20between%20year%20and%20price.png)
+* There is a negative correlation between the price of the car and the amount of miles it had
+![](https://github.com/meugene2022/AI-capstone/blob/main/Images/Correlation%20between%20price%20and%20mile.png)
+* There is negative correlation between the year of the car and how many miles it has
+![](https://github.com/meugene2022/AI-capstone/blob/main/Images/Corelation%20between%20years%20and%20miles.png)
+
 * The most popular cars in the inventory were mid-small size sedan such as Toyota Corolla and Honda CR-V
-![](Images/most popular cars.png)
 * The most popular model years in the inventory were 2015 and 2019 
-![](Images/model years.png "most popular model years)
+
 
 
 # Model Prediction 
